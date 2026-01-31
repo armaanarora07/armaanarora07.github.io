@@ -1,2 +1,11 @@
-# armaanarora07.github.io
-github page of armaan
+# GitHub Pages
+
+Welcome to the GitHub Pages site for Armaan Arora
+## Main Repository
+
+For complete documentation, lab experiments, and theory content for CONTAINERIZATION-AND-DEVOPS, visit the main repository:
+
+🔗 https://github.com/armaanarora07/CONTAINERIZATION-AND-DEVOPS
+
+
+
